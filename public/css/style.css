@@ -592,7 +592,7 @@ body:after {
 .hero-v1 {
   padding: 8rem 0 8rem 0;
   border-bottom-right-radius: 50%;
-  background: rgba(111, 66, 193, 0.1);
+  background: rgba(0,0,139, 0.1);
   overflow: hidden; }
   .hero-v1 .heading {
     font-weight: 900;
@@ -604,7 +604,7 @@ body:after {
   .hero-v1 .subheading {
     font-size: 12px;
     text-transform: uppercase;
-    color: rgba(111, 66, 193, 0.5);
+    color: rgb(43 87 167 / 50%);
     letter-spacing: .1rem;
     font-weight: 900; }
   .hero-v1 .illustration {
@@ -806,7 +806,7 @@ body:after {
       left: 0px;
       top: -40px;
       height: 50px;
-      background: rgba(111, 66, 193, 0.1);
+      background: rgba(0,0,139, 0.1);
       z-index: -1;
       border-radius: 50%; }
   .data .number {

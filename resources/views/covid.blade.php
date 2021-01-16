@@ -102,8 +102,8 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-6 mr-auto text-center text-lg-left">
-            <span class="d-block subheading">About</span>
-            <h1 class="heading mb-3">About Us</h1>
+            <span class="d-block subheading">Covid</span>
+            <h1 class="heading mb-3">Covid Rate in India</h1>
             <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel a, nulla incidunt eaque sit praesentium porro consectetur optio!</p>
             <p class="mb-4"><a href="#" class="btn btn-primary">How to prevent</a></p>
 
@@ -112,7 +112,7 @@
           </div>
           <div class="col-lg-6">
             <figure class="illustration">
-              <img src="images/illustration.png" alt="Image" class="img-fluid">
+              <img src="images/1.png" alt="Image" class="img-fluid">
             </figure>
           </div>
           
